@@ -1,0 +1,4 @@
+cd /home/debian/Documents/servidor_calculos ; /usr/bin/env /usr/lib/jvm/java-17-openjdk-amd64/bin/java @/tmp/cp_5zchxknaqpf08jxf7lmaubouo.argfile de.etg.psp.examen.cliente.Cliente "1,+,2" &
+cd /home/debian/Documents/servidor_calculos ; /usr/bin/env /usr/lib/jvm/java-17-openjdk-amd64/bin/java @/tmp/cp_5zchxknaqpf08jxf7lmaubouo.argfile de.etg.psp.examen.cliente.Cliente "5,-,2" &
+cd /home/debian/Documents/servidor_calculos ; /usr/bin/env /usr/lib/jvm/java-17-openjdk-amd64/bin/java @/tmp/cp_5zchxknaqpf08jxf7lmaubouo.argfile de.etg.psp.examen.cliente.Cliente "1,*,2" &
+cd /home/debian/Documents/servidor_calculos ; /usr/bin/env /usr/lib/jvm/java-17-openjdk-amd64/bin/java @/tmp/cp_5zchxknaqpf08jxf7lmaubouo.argfile de.etg.psp.examen.cliente.Cliente "4,/,2" &
